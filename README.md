@@ -385,33 +385,20 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 🎯 CURRENT FOCUS
 
 AREA
-
 FOCUS
 
 Role
-
 MERN Developer · Full-Stack Developer
-
 Core
-
 Software Engineering · AI · Systems
-
 Learning
-
 Advanced MERN · Artificial Intelligence · Linux · Networking · Systems · Robotics
-
 Building
-
 AI Conversational Applications · Voice Assistant · REST APIs · Full-Stack Applications · Android Applications
-
 Exploring
-
 Local AI · Conversational AI · Linux Systems · Network Security · Backend Architecture · Robotics
-
 Open To
-
 Software Engineering Opportunities · Full-Stack Development · AI Projects · Collaborative Development · Open Source
-
 <br/>
 
 🎯 MY GOAL
@@ -419,13 +406,9 @@ Software Engineering Opportunities · Full-Stack Development · AI Projects · C
 <div align="center">
 
 Software Engineering + AI + Linux + Networking + Systems + Robotics + Entrepreneurship
-
-<br/>
-
+<br/> 
 Building useful technology and eventually creating products and businesses of my own.
-
 </div>
-
 <br/>
 
 📡 CONNECT
