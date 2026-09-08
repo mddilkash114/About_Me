@@ -388,17 +388,17 @@ AREA,
 FOCUS
 
 Role:
-MERN Developer · Full-Stack Developer.
+MERN Developer-Full-Stack Developer.
 Core:
-Software Engineering · AI · Systems.
+Software Engineering-AI-Systems.
 Learning:
-Advanced MERN · Artificial Intelligence · Linux · Networking · Systems · Robotics.
+Advanced MERN - Artificial Intelligence - Linux - Networking - Systems - Robotics.
 Building:
-AI Conversational Applications · Voice Assistant · REST APIs · Full-Stack Applications · Android Applications.
+AI Conversational Applications - Voice Assistant - REST APIs - Full-Stack Applications - Android Applications.
 Exploring:
-Local AI · Conversational AI · Linux Systems · Network Security · Backend Architecture · Robotics.
+Local AI · Conversational AI - Linux Systems - Network Security - Backend Architecture - Robotics.
 Open To:
-Software Engineering Opportunities · Full-Stack Development · AI Projects · Collaborative Development · Open Source.
+Software Engineering Opportunities - Full-Stack Development - AI Projects - Collaborative Development - Open Source.
 <br/>
 
 🎯 MY GOAL
