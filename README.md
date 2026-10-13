@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,16,18&text=MD%20DILKASH&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=MERN%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Systems%20Enthusiast%20%7C%20Linux%20%26%20Networking&descAlignY=58&descSize=15" width="100%" alt="Md Dilkash banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18&height=180&section=header&text=MD%20DILKASH&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=MERN%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Systems%20Enthusiast&descAlignY=58&descSize=15" width="100%" alt="Md Dilkash banner"/>
 
 <br>
 
