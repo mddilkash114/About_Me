@@ -20,8 +20,8 @@
 <br>
 
 <p>
-  <a href="https://github.com/asaddizu1044-pixel">
-    <img src="https://img.shields.io/badge/GITHUB-asaddizu1044--pixel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  <a href="https://github.com/mddilkash114">
+    <img src="https://img.shields.io/badge/GITHUB-mddilkash114-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
 </p>
 
@@ -31,9 +31,9 @@
   <img src="https://img.shields.io/badge/AI-Systems-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Systems"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=asaddizu1044-pixel&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/asaddizu1044-pixel?style=for-the-badge&color=4F46E5&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/asaddizu1044-pixel?style=for-the-badge&color=7C3AED&label=STARS" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=mddilkash114&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/mddilkash114?style=for-the-badge&color=4F46E5&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/mddilkash114?style=for-the-badge&color=7C3AED&label=STARS" alt="Stars"/>
 
 </div>
 
@@ -328,11 +328,11 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 
 <div align="center">
 
-<a href="https://github.com/asaddizu1044-pixel?tab=repositories">
+<a href="https://github.com/mddilkash114?tab=repositories">
 <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
-<a href="https://github.com/asaddizu1044-pixel?tab=activity">
+<a href="https://github.com/mddilkash114?tab=activity">
 <img src="https://img.shields.io/badge/ACTIVITY-OPEN-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Open activity"/>
 </a>
 
@@ -342,17 +342,17 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 
 <div align="center">
 
-<a href="https://github.com/asaddizu1044-pixel">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=asaddizu1044-pixel&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="Md Dilkash GitHub statistics"/>
+<a href="https://github.com/mddilkash114">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mddilkash114&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="Md Dilkash GitHub statistics"/>
 </a>
 
-<a href="https://github.com/asaddizu1044-pixel">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaddizu1044-pixel&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Md Dilkash top languages"/>
+<a href="https://github.com/mddilkash114">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddilkash114&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Md Dilkash top languages"/>
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=asaddizu1044-pixel&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" alt="Md Dilkash GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=mddilkash114&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" alt="Md Dilkash GitHub streak"/>
 
 </div>
 
@@ -362,9 +362,9 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asaddizu1044-pixel&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mddilkash114&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" width="100%"/>
 
-<a href="https://github.com/asaddizu1044-pixel">
+<a href="https://github.com/mddilkash114">
 <img src="https://img.shields.io/badge/OPEN%20REAL%20GITHUB%20ACTIVITY-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Open real GitHub activity"/>
 </a>
 
@@ -409,8 +409,8 @@ Building useful technology and eventually creating products and businesses of my
 
 <div align="center">
 
-<a href="https://github.com/asaddizu1044-pixel">
-<img src="https://img.shields.io/badge/GITHUB-asaddizu1044--pixel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/mddilkash114">
+<img src="https://img.shields.io/badge/GITHUB-mddilkash114-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
