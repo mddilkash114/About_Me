@@ -360,42 +360,57 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 
 <br/>
 
+<div align="center">
+
 🎯 CURRENT FOCUS
 
-AREA,
-FOCUS
+<table align="center">
+<tr>
+<td align="center">
 
-Role:
-MERN Developer-Full-Stack Developer.
-Core:
-Software Engineering-AI-Systems.
+<b>Role:</b> MERN Developer · Full-Stack Developer
+<br/>
+<b>Core:</b> Software Engineering · AI Systems
 
-Learning:
-Advanced MERN - Artificial Intelligence - Linux - Networking - Systems - Robotics.
+<br/><br/>
 
-Building:
-AI Conversational Applications - Voice Assistant - REST APIs - Full-Stack Applications - Android Applications.
+<b>Learning:</b> Advanced MERN · Artificial Intelligence · Linux · Networking · Systems · Robotics
 
-Exploring:
-Local AI · Conversational AI - Linux Systems - Network Security - Backend Architecture - Robotics.
+<br/><br/>
 
-Open To:
-Software Engineering Opportunities - Full-Stack Development - AI Projects - Collaborative Development - Open Source.
+<b>Building:</b> AI Conversational Applications · Voice Assistant · REST APIs · Full-Stack Applications · Android Applications
+
+<br/><br/>
+
+<b>Exploring:</b> Local AI · Conversational AI · Linux Systems · Network Security · Backend Architecture · Robotics
+
+<br/><br/>
+
+<b>Open To:</b> Software Engineering Opportunities · Full-Stack Development · AI Projects · Collaborative Development · Open Source
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <br/>
 
-🎯 MY GOAL
-
 <div align="center">
+
+🎯 MY GOAL
 
 Software Engineering + AI + Linux + Networking + Systems + Robotics + Entrepreneurship
 <br/> 
 Building useful technology and eventually creating products and businesses of my own.
+
 </div>
+
 <br/>
 
-📡 CONNECT
-
 <div align="center">
+
+📡 CONNECT
 
 <a href="https://github.com/mddilkash114">
 <img src="https://img.shields.io/badge/GITHUB-mddilkash114-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
