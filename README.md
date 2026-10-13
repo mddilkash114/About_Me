@@ -4,9 +4,7 @@
 -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18&height=180&section=header&text=MD%20DILKASH&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=MERN%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Systems%20Enthusiast&descAlignY=58&descSize=15" width="100%" alt="Md Dilkash banner"/>
-
+<img src="https://img.shields.io/badge/MD-DILKASH-6D28D9?style=for-the-badge&labelColor=4F46E5" alt="Md Dilkash banner"/>
 <br>
 
 <a href="https://git.io/typing-svg">
