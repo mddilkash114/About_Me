@@ -7,18 +7,6 @@
 <img src="https://img.shields.io/badge/MD-DILKASH-6D28D9?style=for-the-badge&labelColor=4F46E5" alt="Md Dilkash banner"/>
 <br>
 
-<a href="mailto:dilkash0114@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-dilkash0114@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/md-dilkash-3b718a2a4/">
-<img src="https://img.shields.io/badge/LINKEDIN-md--dilkash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/mddilkash114">
-<img src="https://img.shields.io/badge/GITHUB-mddilkash114-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-
-<br>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=850&lines=MERN+Stack+Development;Full-Stack+Web+Applications;Artificial+Intelligence;Linux+%26+Networking;REST+APIs+%7C+MongoDB+%7C+MySQL;Building+Projects+%7C+Learning+by+Doing" alt="Typing SVG"/>
 </a>
