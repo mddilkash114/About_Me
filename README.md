@@ -358,16 +358,6 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 
 <br/>
 
-🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asaddizu1044-pixel&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
-
-</div>
-
-<br/>
-
 🟩 CONTRIBUTION ACTIVITY
 
 <div align="center">
