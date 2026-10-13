@@ -122,9 +122,9 @@ I learn primarily by building projects, solving implementation problems, and ite
 
 <br/>
 
-🧩 TECHNOLOGY UNIVERSE
-
 <div align="center">
+
+🧩 TECHNOLOGY UNIVERSE
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark&perline=5" alt="Frontend technologies"/>
 <br/>
@@ -198,18 +198,16 @@ ENGINEERING → MERN · REST APIs · Linux · Networking
 
 <table align="center">
 
-<!-- featured builds -->
-
 <tr>
 <td width="50%" valign="top">
 
-01 — Roxan AI
+01 — Multi-AI Workspace ROXAN
 
-Intelligent Conversational Assistant
+Unified AI Platform
 
-Local-AI conversational assistant with persistent memory, real-time communication, authentication, and personalized conversations.
+Roxan is a unified AI workspace that brings together multiple AI providers (OpenAI, Google Gemini, Groq, and OpenRouter) under one interface. Eliminates the need to switch between different AI apps, tabs, or subscriptions. Supports multi-model chat, document Q&A, voice input, and real-time web search with advanced features like RAG and NLP.
 
-Stack: React.js · Node.js · Express.js · MongoDB · Socket.IO · JWT · Ollama · Llama 2
+Stack: MERN · OpenAI · Google Gemini · Groq · OpenRouter · RAG · NLP · Web Search
 
 </td>
 <td width="50%" valign="top">
