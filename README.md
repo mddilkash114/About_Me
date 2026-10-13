@@ -356,18 +356,6 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 
 </div>
 
-<br/>
-
-🟩 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mddilkash114&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" width="100%"/>
-
-<a href="https://github.com/mddilkash114">
-<img src="https://img.shields.io/badge/OPEN%20REAL%20GITHUB%20ACTIVITY-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Open real GitHub activity"/>
-</a>
-
 </div>
 
 <br/>
