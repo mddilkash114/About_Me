@@ -332,13 +332,7 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 
 <div align="center">
 
-<a href="https://github.com/mddilkash114">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mddilkash114&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="Md Dilkash GitHub statistics"/>
-</a>
-
-<a href="https://github.com/mddilkash114">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddilkash114&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Md Dilkash top languages"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddilkash114&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=6" alt="Md Dilkash top languages"/>
 
 <br/>
 
